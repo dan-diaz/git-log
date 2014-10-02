@@ -11,9 +11,9 @@ run `apm install git-log` from the command line.
 
 ## Usage
 
-Make sure Command Palette is enabled
-Open Command Palette
-Type: 'Git Log: Show'
+Make sure Command Palette is enabled.
+Open Command Palette.
+Type: 'Git Log: Show'.
 
 ## Feature requests & bug reports
 
